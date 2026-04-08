@@ -70,3 +70,6 @@ WITH skills_required AS (
 
 )
 SELECT * FROM skills_required
+
+SELECT *
+FROM job_postings_fact
