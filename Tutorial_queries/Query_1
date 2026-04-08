@@ -1,2 +1,2 @@
 SELECT *
-FROM company_dim
+FROM skills_dim
